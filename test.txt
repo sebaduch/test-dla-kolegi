@@ -1,2 +1,3 @@
 pierwszy plik testowy
 druga linia textu 
+trzecia linia
